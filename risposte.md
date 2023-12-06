@@ -1,0 +1,5 @@
+1) un algoritmo è definito come una serie di operazioni ben precise che vengono effetuate una dietro l'altra con un un ordine precisamente impostato, un algoritmo può essere paragonato ad una procedura di laboratorio o alle istruzioni da seguire per preparare una torta: operazioni precise da eseguire con un ordine preciso.
+
+2) una variabile è un "contenitore" virtuale che immagazzina un dato, alcune variabili contengono un numero altre stringhe ovvero una serie di caratteri e/o numeri, ma ci possono essere diversi tipi di dato che le variabili possono contenere. Alcune variabili possono essere mutate: svuotate del loro contenuto o riempite con nuovi dati, altre dette costanti non mutano.
+
+3) No. Undefined è la qualità di una variabile dichiarata e quindi esistente inizializzata senza contenuto specifico, mentre NULL indica il contenuto vuoto
